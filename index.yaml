@@ -8,6 +8,6 @@ entries:
     name: namix-demo
     type: application
     urls:
-    - https://namix.github.io/demo-helm/namix-demo-0.1.0.tgz
+    - https://namix-io.github.io/demo-helm/namix-demo-0.1.0.tgz
     version: 0.1.0
 generated: "2021-10-11T23:31:36.604213+03:00"
