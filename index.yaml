@@ -3,7 +3,7 @@ entries:
   namix-demo:
   - apiVersion: v2
     created: "2021-10-11T23:31:36.605085+03:00"
-    description: A Helm chart for Kubernetes
+    description: Namix demo helm chart
     digest: f646058d5c1646efa8a112f14f0d2154a2c625d35675bff3b201658740f86063
     name: namix-demo
     type: application
